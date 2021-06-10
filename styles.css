@@ -1,0 +1,105 @@
+.masthead {
+  background: rgba(0, 0, 0, 0.5);
+  padding-top: 20%;
+  padding-bottom: 20%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  position: relative;
+  -o-background-size: cover;
+}
+
+.borderimg {
+  width: 100% !important;
+}
+
+.bottom-div {
+  width: 100%;
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+}
+
+.site-heading {
+  font-family: "Quicksand", sans-serif;
+  color: #ffffff;
+}
+
+.site-heading h1 {
+  font-size: 55px;
+  font-weight: bold;
+}
+
+.subheading {
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.heading-button {
+  background-color: #de6c17;
+  color: #ffffff;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-size: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: Quicksand;
+  font-weight: bold;
+  border-radius: 4px;
+}
+
+.cardheading {
+  font-size: 40px;
+  font-family: Quicksand;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #36413c;
+}
+
+.cardintro {
+  font-size: 25px;
+  font-family: Quicksand;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #5e6e66;
+  line-height: 1.42;
+  text-align: center;
+}
+
+.card-title {
+  font-family: Quicksand;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #36413c;
+}
+
+.card-text {
+  font-family: Quicksand;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #5e6e66;
+  line-height: 1.44;
+  font-size: 18px;
+}
+
+.stretched-link {
+  color: #de6c17;
+  font-family: Quicksand;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+}
